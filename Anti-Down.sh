@@ -17,7 +17,7 @@ echo "Kegunaan Tools Ini:"
 echo $cyan
 echo "1).Bikin G Pending Wa"
 echo "2).Bikin G Cepet Down"
-echo "3).Bikin Ga Boros Battry"
+echo "3).Ga Boros Battry"
 echo "4).Lanjay Ga Pake Patah Patah"
 echo "5).Tidak memenUhi Memori"
 echo "6).Meningkatkan Performa Anti Down"
